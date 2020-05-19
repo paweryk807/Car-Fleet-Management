@@ -1,0 +1,11 @@
+1;Piotr;Tokolski;0;A1,B,BE,C1,C1E,C,CE
+2;Ivan;Moskovitz;0;A1,A,B,BE,C1,C1E,C,CE
+3;Adam;Sokol;0;A1,A,B,BE,C1,C1E,C,CE
+4;Rafal;Rosolski;0;A1,A,B,BE,C1,C1E,C,CE
+5;Zbigniew;Traba;0;B
+6;Szymon;Seda;1;B
+7;Jaroslaw;Dopaski;1;C
+8;Kacper;Koza;1;B
+9;Mateusz;Faracz;1;B
+10;Sebastian;Kowalik;0;B
+11;Edek;Zgredek;1;A,B
